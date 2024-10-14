@@ -1,0 +1,36 @@
+_repo: La-nave-de-los-locos_74566
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baroja, Pío
+    aliases:
+    - Baroja, Pio
+    - Nessi, Pío Baroja y
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '2669'
+    url: http://www.gutenberg.org/2009/agents/2669
+    wikipedia:
+    - https://en.wikipedia.org/wiki/P%C3%ADo_Baroja
+    - https://es.wikipedia.org/wiki/P%C3%ADo_Baroja
+description: ''
+gutenberg_issued: '2024-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74566'
+language: es
+pgterms:marc904: https://archive.org/details/lanavedeloslocos00baro/page/4/mode/2up
+pgterms:marc905: 20240127053138baroja
+pgterms:marc906: '1925'
+pgterms:marc907: es
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images generously made available
+  by The Internet Archive/Canadian Libraries.)
+publication_note: '  $aMadrid :$bCaro Raggio, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La nave de los locos
+url: http://www.gutenberg.org/ebooks/74566
