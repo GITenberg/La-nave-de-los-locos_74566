@@ -1,5 +1,8 @@
 _repo: La-nave-de-los-locos_74566
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74566-h/images/cover.jpg
 creator:
   author:
     agent_name: Baroja, Pío
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/P%C3%ADo_Baroja
     - https://es.wikipedia.org/wiki/P%C3%ADo_Baroja
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74566#La-nave-de-los-locos
 gutenberg_issued: '2024-10-12'
 gutenberg_type: Text
 identifiers:
